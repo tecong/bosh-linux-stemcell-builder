@@ -100,6 +100,8 @@ keyboard-configuration
 klibc-utils
 kmod
 kpartx
+language-pack-fi
+language-pack-fi-base
 less
 libacl1:amd64
 libaio1:amd64
